@@ -59,7 +59,7 @@
     "tld-extract": "^2.1.0",
     "tslib": "^2.8.1",
     "tsyringe": "^4.10.0",
-    "undici": "^7.24.7"
+    "undici": "^7.29.1"
   },
   "devDependencies": {
     "@types/koa": "^2.15.0",
